@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font: normal normal 16px/1em 'Arial', sans-serif; }
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ffaa00; }
+
+p {
+  color: #ffaa00; }
+
+a {
+  color: #ffaa00; }
+
+.wrapper {
+  width: 85%;
+  margin: 1.5em auto;
+  padding: 2em;
+  background: #30394d; }

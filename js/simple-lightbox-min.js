@@ -1,0 +1,1 @@
+$(window).ready(function(){var a=function(){$(window).resize()?console.log("Resized :)"):console.log("No Resize")};a()});
